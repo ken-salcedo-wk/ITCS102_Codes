@@ -22,11 +22,7 @@ print("annual salary --> ", annual_income)
 print("do you have collateral? --> ", has_collateral)
 print("------------------------")
 
-if has_collateral == True:
-    print("you have collateral")
-else:
-    print("you have no collateral")
-
+#CONDITIONAL LOGIC
 if age >= 21 and is_employed == True:
     print("accepted baseline criteria")
     if credit_score >= 750: #tier1
