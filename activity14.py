@@ -4,6 +4,7 @@
 # annual_income (float)
 # has collateral (boolean)
 
+#INPUTS
 age = int(input("enter your age -->  "))
 is_employed = bool(input("are you currently employed (true/false) -->  "))
 credit_score = float(input("credit score -->  "))
