@@ -1,6 +1,6 @@
 n = 1
-for x in range (6):
-    for y in range (x):
+for x in range (5):
+    for y in range (x + 1):
         print(n, end=" ")
-        n += 1
+        n = n + 1
     print()
