@@ -16,7 +16,7 @@ for x in range (size):
 n = int(input("number of x: "))
 z = 0
 
-for x in range(999999)
+for x in range(999999):
     if z != n:
         for y in range(x + 1):
             if z != n:
