@@ -24,4 +24,4 @@ for x in range(999999):
                 print(z, end="\t")
             elif z == n:
                 print("", end="\t")
-            print("\n")
+        print("\n")
